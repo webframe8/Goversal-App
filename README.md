@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # Goversal-App
 Goversal makes visa and flight applications simple. Apply, track, and prepare your travel documents with clear guidance—all in one app.
-=======
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -52,4 +50,3 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
->>>>>>> 94601df (Initial commit)
